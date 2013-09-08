@@ -1,0 +1,28 @@
+{
+  "name": "tweakable",
+  "version": "0.0.0",
+  "description": "Streamable UI elements for adjusting metrics when debugging interactives/visualisations/etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/tweakable.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "gui",
+    "adjust",
+    "debug",
+    "frontend",
+    "browserify",
+    "streaming"
+  ]
+}
